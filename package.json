@@ -1,6 +1,6 @@
 {
-  "name": "Demo",
-  "version": "0.1.0",
+  "name": "@sudimage/drawers",
+  "version": "0.1.900",
   "devDependencies": {
     "gulp": "^3.8.11",
     "gulp-autoprefixer": "^2.1.0",
