@@ -1,0 +1,30 @@
+{
+  "name": "drawers",
+  "description": "Simple CSS drawers",
+  "main": [
+    "js/drawers.js",
+    "sass/drawers.sass"
+  ],
+  "moduleType": "globals",
+  "keywords": [
+    "drawer",
+    "sidebar",
+    "side navigation",
+    "navigation",
+    "push",
+    "slide"
+  ],
+  "authors": [
+    "Call Me Nick (http://callmenick.com)",
+    "Marc-André Appel <marc-andre@sudimage.fr> (http://www.sudimage.fr)"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*"
+  ],
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SudimageCommunication/Drawers.git"
+  }
+}
